@@ -1,3 +1,31 @@
+## rqt (humble) - 1.1.7-2
+
+The packages in the `rqt` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble rqt` on `Mon, 29 Apr 2024 04:56:36 -0000`
+
+These packages were released:
+- `rqt`
+- `rqt_gui`
+- `rqt_gui_cpp`
+- `rqt_gui_py`
+- `rqt_py_common`
+
+Version of package(s) in repository `rqt`:
+
+- upstream repository: https://github.com/ros-visualization/rqt.git
+- release repository: https://github.com/revyos-ros/rqt-release.git
+- rosdistro version: `1.1.7-1`
+- old version: `1.1.7-1`
+- new version: `1.1.7-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt (rolling) - 1.7.0-1
 
 The packages in the `rqt` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rqt --rosdistro rolling --non-interactive` on `Fri, 26 Apr 2024 12:11:29 -0000`
